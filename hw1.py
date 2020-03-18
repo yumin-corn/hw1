@@ -23,7 +23,7 @@ i  = 0
 
 # 開啟 CSV 檔案
 t = 0
-with open('sample_input.csv', newline='') as csvfile:
+with open('106000130.csv', newline='') as csvfile:
 
   # 讀取 CSV 檔案內容
   rows = csv.reader(csvfile)
@@ -38,7 +38,7 @@ with open('sample_input.csv', newline='') as csvfile:
      
  # print(t)
 k=0
-with open('sample_input.csv', newline='') as csvfile:
+with open('106000130.csv', newline='') as csvfile:
 
   # 讀取 CSV 檔案內容
   rows = csv.reader(csvfile)
